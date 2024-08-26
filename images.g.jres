@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABAAAADu7u7u7u7u7r67u7u7u7vrvru7u7u7u+u+u7u7u7u76767u7u7u7vrvru7u7u7u+u+u7u7u7u76767u7u7u7vrvru7u7u7u+u+u7u7u7u76767u7u7u7vrvru7u7u7u+u+u7u7u7u76767u7u7u7vrvru7u7u7u+vu7u6+6+7u7g==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Room 1"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB3VwAAAAAAcHdXAAAAUFVwd3d3d+719XV3d3d37lVVf3d3BwDuVVV/d3cHAAD19XV3d3d37lBVcHd3d3fuAABwd1cAAO4AAAB3VwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Player"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
